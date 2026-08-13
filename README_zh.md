@@ -4,7 +4,7 @@
 
 ## 介绍
 
-LCC Web SDK是其域官方提供的LCC开发套件，支持在Web端加载lcc文件，并将数据渲染出场景，支持射线检测，点云切换，环境数据切换，细节渲染等诸多常用功能。支持主流浏览器：Chrome，Firefox，Safari，Edge。
+LCC Web SDK是其域官方提供的LCC开发套件，支持在Web端加载lcc/lcc2文件，并将数据渲染出场景，支持射线检测，点云切换，环境数据切换，细节渲染等诸多常用功能。支持主流浏览器：Chrome，Firefox，Safari，Edge。
 
 ## 下载
 
@@ -12,7 +12,8 @@ LCC Web SDK是其域官方提供的LCC开发套件，支持在Web端加载lcc文
 
 ## 特性
 
-- 支持主流PC浏览器支持：Chrome, Firefox, Safari, Edge 
+- 受益于LCC2极致压缩，支持十亿级高斯的大规模真实世界场景 
+- 支持主流PC浏览器：Chrome, Firefox, Safari, Edge 
 - 支持Three.js和Cesium.js 
 - 支持基础渲染和球谐渲染分离 
 - 支持实时开启和关闭球谐渲染 
