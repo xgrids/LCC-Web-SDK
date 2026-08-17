@@ -4,7 +4,7 @@
 
 ## Introduction
 
-LCC Web SDK is the official development kit provided by Xgrids, enabling the loading of LCC/LCC2 files on the web and rendering data into scenes. It supports common functionalities such as raycasting, point cloud switching, environment data switching, and detailed rendering. Compatible with major browsers: Chrome, Firefox, Safari, Edge.
+LCC Web SDK is the official development kit provided by Xgrids, enabling the loading of [LCC](https://github.com/xgrids/LCCWhitepaper)/[LCC2](https://github.com/xgrids/LCC2Whitepaper) files on the web and rendering data into scenes. It supports common functionalities such as raycasting, point cloud switching, environment data switching, and detailed rendering. Compatible with major browsers: Chrome, Firefox, Safari, Edge.
 
 ## How to get?
 
