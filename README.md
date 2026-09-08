@@ -38,6 +38,8 @@ Please visit [https://developer.xgrids.com](https://developer.xgrids.com/#/downl
 
 - Support request verification for meta.lcc links with tokens
 
+- Support WebXR
+
 ## Release Note
 
 [Release Note](https://developer.xgrids.com/#/document?titleId=en-1720509659739)
