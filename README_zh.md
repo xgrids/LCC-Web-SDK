@@ -24,7 +24,8 @@ LCC Web SDK是其域官方提供的LCC开发套件，支持在Web端加载[lcc](
 - 支持本地数据缓存 
 - 支持全局Alpha调整 
 - 支持Box和平面裁切 
-- 支持对带token的meta.lcc文件链接请求校验 
+- 支持对带token的meta.lcc文件链接请求校验
+- 支持WebXR
 
 ## 更新日志
 
