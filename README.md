@@ -8,7 +8,7 @@ LCC Web SDK is the official development kit provided by Xgrids, enabling the loa
 
 ## How to get?
 
-Please visit [https://www.xgrids.com/intl/support/download/lcc-for-web](https://www.xgrids.com/intl/support/download/lcc-for-web) to get the latest SDK.
+Please visit [Download](https://www.xgrids.com/intl/support/download/lcc-for-web) to get the latest SDK.
 
 ## Features
 
