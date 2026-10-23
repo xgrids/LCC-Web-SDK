@@ -8,7 +8,7 @@ LCC Web SDK is the official development kit provided by Xgrids, enabling the loa
 
 ## How to get?
 
-Please visit [https://developer.xgrids.com](https://developer.xgrids.com/#/download?page=LCC_WEB_SDK) to get the latest SDK.
+Please visit [https://www.xgrids.com/intl/support/download/lcc-for-web](https://www.xgrids.com/intl/support/download/lcc-for-web) to get the latest SDK.
 
 ## Features
 
@@ -38,19 +38,11 @@ Please visit [https://developer.xgrids.com](https://developer.xgrids.com/#/downl
 
 - Support request verification for meta.lcc links with tokens
 
-- Support WebXR
-
-## Release Note
-
-[Release Note](https://developer.xgrids.com/#/document?titleId=en-1720509659739)
+- Support WebXR/WebGL/WebGPU
 
 ## Document
 
-Please visit [Document](https://developer.xgrids.com/#/document?titleId=en-1720509291851) for detailed documentation
-
-## Tutorial
-
-Please visit [Tutorial](https://developer.xgrids.com/#/tutorial?page=web_sdk) Get detailed guidance
+Please visit [Document](https://docs.xgrids.com/en-us/07-plugin-sdk/03-web/latest/001-introduction.html) for detailed documentation
 
 ## Community
 
