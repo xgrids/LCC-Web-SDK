@@ -8,7 +8,7 @@ LCC Web SDK是其域官方提供的LCC开发套件，支持在Web端加载[lcc](
 
 ## 下载
 
-请访问 [https://developer.xgrids.com](https://developer.xgrids.cn/#/download?page=LCC_WEB_SDK) 获取最新版本插件
+请访问 [下载](https://www.xgrids.com/intl/support/download/lcc-for-web) 获取最新版本插件
 
 ## 特性
 
@@ -25,19 +25,11 @@ LCC Web SDK是其域官方提供的LCC开发套件，支持在Web端加载[lcc](
 - 支持全局Alpha调整 
 - 支持Box和平面裁切 
 - 支持对带token的meta.lcc文件链接请求校验
-- 支持WebXR
-
-## 更新日志
-
-[更新日志](https://developer.xgrids.cn/#/document?titleId=cn-1720170688995)
+- 支持WebXR/WebGL/WebGPU
 
 ## 文档
 
-请访问 [文档](https://developer.xgrids.cn/#/document?titleId=cn-1720170149933) 查阅详细文档
-
-## 教程
-
-请访问 [教程](https://developer.xgrids.cn/#/tutorial?page=web_sdk) 获取详细指导
+请访问 [文档](https://docs.xgrids.com/en-us/07-plugin-sdk/03-web/latest/001-introduction.html) 查阅详细文档
 
 ## 论坛
 
